@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🖥️Erick Xavier
+**`Desenvolvedor em aprimoramento`**
 
-<!--
-**Dev-ErickXavier/Dev-ErickXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Erick Xavier, tenho 28 anos, moro em São Paulo - Brasil e estou iniciando minha jornada no mundo da tecnologia e programação. Comecei do zero e tenho como objetivo me aprimorar constantemente, desenvolvendo projetos que unam criatividade, boas práticas e soluções reais. Tenho interesse especial em Java, desenvolvimento web e versionamento de código com Git/GitHub. Além da parte técnica, valorizo o aprendizado contínuo, disciplina e evolução pessoal, sempre aberto a feedbacks e novas conexões que me ajudem a crescer na carreira.
+Use os botões abaixo para entrar em contato comigo.
 
-Here are some ideas to get you started:
+<br/>  
+  
+  ## Conect comigo!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/xavierinfotec/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.linkedin.com/in/erick-xavier-a266a11bb/" target="_blank"> 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+</a>
+  
+
+<br/>  
+
+<br/>  
+ 
+ </body>
+</html>
+
+---
+## Linguagens de Interesse
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
