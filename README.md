@@ -11,7 +11,7 @@ Use os botões abaixo para entrar em contato comigo.
 <a href="https://www.instagram.com/xavierinfotec/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.linkedin.com/in/erick-xavier-a266a11bb/" target="_blank"> 
+<a href="" target="_blank"> 
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
 </a>
   
